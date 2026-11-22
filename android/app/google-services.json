@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "748236405190",
+    "project_id": "aplikasisampah-f3132",
+    "storage_bucket": "aplikasisampah-f3132.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:748236405190:android:062f6009def3935b175ac7",
+        "android_client_info": {
+          "package_name": "com.sampah"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDSg9lLjNZxrjhjS2yPjZBpYcZZDAFVYKM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
